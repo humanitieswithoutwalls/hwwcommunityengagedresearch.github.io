@@ -9,3 +9,5 @@ has_children: true
 types of memorializaing
 
 documenting, archiving, zine making etc 
+
+choosing a documentation process

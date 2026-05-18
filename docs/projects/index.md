@@ -13,7 +13,7 @@ In its third iteration, the Grand Research Challenge provided grants of up to $1
 
 Through modes of research partnership that are reciprocal and redistributive, collaborators will demonstrate that “humanities without walls” is not only a metaphor but also a strategic commitment to imagining and doing academic work more inclusively—with universal access, social equity and racial diversity always front of mind.
 
-![Grand Research Challenge Network](docs/projects/_img/network_cer.png)
+![Grand Research Challenge Network](_img/network_cer.png)
 
 Still need to figure out how to embed or link to stable viewing environment
 

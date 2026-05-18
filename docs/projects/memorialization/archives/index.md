@@ -7,3 +7,5 @@ grandparent: Projects and Outcomes
 ---
 
 working in archives, constructing archives
+
+archives as perpetually incomplete (ongoing, in flux...deep mapping type stuff) 

@@ -1,6 +1,6 @@
 ---
 title: Projects and Outcomes
-layout: default
+layout: collection
 nav_order: 2
 has_children: true
 ---

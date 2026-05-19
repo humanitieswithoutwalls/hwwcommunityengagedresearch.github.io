@@ -12,3 +12,5 @@ At the core of any community engaged endeavor are relationships. Deep and meanin
 non-extractive partnerships
 
 building relationships as essential part of work
+
+positionality of the academic

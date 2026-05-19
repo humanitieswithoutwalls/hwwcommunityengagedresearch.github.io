@@ -5,6 +5,9 @@ nav_order: 1
 ---
 
 # Community Engaged Research Toolkit Home
+
+Every community engaged, led, and based research endeavor is as unique as the communities involved, and creating a toolkit to tell someone how to conduct such work seems almost a futile effort. This toolkit, instead, is designed as both an archive of community engaged work funded by Humanities Without Walls and a compilation of stories, insights, and suggestions gained from those endeavors. Rather than being a roadmap or set of prescriptive guidelines and instructions, the contents of this toolkit are intended to spark ideas, or be a jumping off point as you navigate your own work and institutions. The materials held here include theoretical and methodological considersations, insights on working within university bureaucratic systems, examples of project deliverables and outcomes, an archive of HWW-funded projects, and strategies for thinking about an initiative's longevity and sustainability. 
+
 ## Reciprocal and Redistributive Community Engaged Research
 
 All research has a code of ethics behind it and all research prioritizes some things over others, whether that is outcome or process or the timeline or something else. This varies from field to field and project, but the more explicit we are about those underlying priorities and ethical underpinnings, the more transparent the research process becomes for all involved. A part of this transparency is understanding the relationship between methods and ethics in your project and determining how they shape one another. 

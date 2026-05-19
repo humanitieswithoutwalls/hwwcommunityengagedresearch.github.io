@@ -1,3 +1,10 @@
+---
+title: Grand Research Challenge
+layout: default
+nav_order: 2
+has_children: false
+---
+
 # Grand Research Challenge
 
 In its third iteration, the Grand Research Challenge provided grants of up to $150,000 over a three year period for teams pursuing research with a commitment to methodologies of reciprocity and redistribution. GRC-funded projects answer questions such as "What does humanities collaboration look like when it is multi-sited as well as interdisciplinary: when scholars from a variety of institutions and communities come together to partner not just in discrete research projects, but in the broader context of rethinking the direction of humanities research and education as well?" And, "what can humanities research and practice do to turn our attention to the most compelling and urgent questions of our time—global displacement, police violence, water and food justice, multiracial community-building, racial disparities in health, indigenous art and activism—so that scholars move continuously across that porous boundary between the academic and the world? How, in short, can we design a humanities ecosystem that is truly 'without walls?'"

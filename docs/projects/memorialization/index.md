@@ -1,7 +1,7 @@
 ---
 title: Memorialization
 layout: default
-nav_order: 1
+nav_order: 2
 parent: Projects and Outcomes
 has_children: true
 ---

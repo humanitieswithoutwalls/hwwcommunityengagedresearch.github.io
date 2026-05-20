@@ -18,6 +18,7 @@ positionality of the academic
 ## *Putting Knowledge into Practice: Communiversities as Education Without Walls*
 
 *The Communiversities Grand Research Challenge project, led by Drs. Asif Wilson (University of Illinois Urbana Champaign), Rachel McMillian (Indiana University Indianapolis), and Aja Reynolds (Wayne State University), is a multi-sited collaborative initiative that convenes communities to critically read and rewrite their worlds in three Midwestern cities:  Chicago, Cincinnati, and Detroit. Communiversities builds on a model from the 1960s that emerged out of the Black Power movement in Chicago where parents, teachers, professors, and community organizers came together to create alternative education sites to imagine and actualize freedom. Explore the links below to learn about the intiatives and the centrality of longstanding relationships in them.*
+
 [Communiversities](https://socialstudies.education.illinois.edu/projects/communiversities){: .btn .btn-blue }
 [Closing Schools is a Hate Crime](https://storymaps.arcgis.com/stories/b8910910c36b4d46ac5f5b4356019b58){: .btn .btn-blue }
 [Centering Education in Community and Collaboration](https://www.humanitieswithoutwalls.illinois.edu/news/centering-education-collaboration-and-community){: .btn .btn-blue }

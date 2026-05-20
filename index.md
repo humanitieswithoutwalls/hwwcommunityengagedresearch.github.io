@@ -17,8 +17,10 @@ In community-engaged research, replicability is not exact. You can’t copy-past
 In the context of reciprocal and redistributive methods, collaboration is more than two parties working together toward a shared outcome. Collaborations rooted in reciprocity prioritize redistributing power, resources, and benefits, with long term impacts in mind. 
 
 For more on these methods, check out HWW's workshops:
-[Collaborative, Reciprocal, and Redistributive Models of Research, Part I](https://www.youtube.com/watch?v=cpfHW_7-ceU){: .btn .btn-outline }
-[Collaborative, Reciprocal, and Redistributive Models of Research, Part II](https://www.youtube.com/watch?v=S5i-W64j7Hw){: .btn .btn-outline }
+[Collaborative, Reciprocal, and Redistributive Models of Research, Part I](https://www.youtube.com/watch?v=cpfHW_7-ceU){: .btn } 
+[Collaborative, Reciprocal, and Redistributive Models of Research, Part II](https://www.youtube.com/watch?v=S5i-W64j7Hw){: .btn }
+
+
 
 ![Grand Research Challenge Network](assets/images/network_cer.png)
 This will link to stable network viewing soon! Or embed network here...will figure out what's possible within GitHub/Net.Create confines (also not sure if the network is going to live here, on the projects page, or have its own page)

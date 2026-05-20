@@ -11,3 +11,5 @@ What does a community engaged research project look like? What does it accomplis
 
 types of projects, types of outcomes, etc 
 
+At the most basic level, a community engaged research project grows out of relationships and addresses needs, wants, and/or goals of the community involved. This can take shape in a variety of ways and can involve program building, event hosting, resource sharing, archiving, or skill-building and knowledge sharing activities, to name just a few. 
+

@@ -15,6 +15,7 @@ building relationships as essential part of work; challenges for early career/no
 
 positionality of the academic
 
+> {: .highlight }
 ## *Putting Knowledge into Practice: Communiversities as Education Without Walls*
 
 *The Communiversities Grand Research Challenge project, led by Drs. Asif Wilson (University of Illinois Urbana Champaign), Rachel McMillian (Indiana University Indianapolis), and Aja Reynolds (Wayne State University), is a multi-sited collaborative initiative that convenes communities to critically read and rewrite their worlds in three Midwestern cities:  Chicago, Cincinnati, and Detroit. Communiversities builds on a model from the 1960s that emerged out of the Black Power movement in Chicago where parents, teachers, professors, and community organizers came together to create alternative education sites to imagine and actualize freedom. Explore the links below to learn about the intiatives and the centrality of longstanding relationships in them.*

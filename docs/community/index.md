@@ -26,5 +26,5 @@ Paragraph on positionality of the academic...insights from Bob Morrissey...
 >{: .new }
 >>## *Putting Knowledge into Practice: Reclaiming Stories*
 >>
->>*Morrissey's role in project vs his visibility
+>>*Morrissey's role in project vs his visibility*
 

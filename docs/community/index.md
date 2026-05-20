@@ -21,6 +21,8 @@ Non-extractive partnerships: community engaged research is not charity work or a
 [Closing Schools is a Hate Crime](https://storymaps.arcgis.com/stories/b8910910c36b4d46ac5f5b4356019b58){: .btn .btn-blue }
 [Centering Education in Community and Collaboration](https://www.humanitieswithoutwalls.illinois.edu/news/centering-education-collaboration-and-community){: .btn .btn-blue }
 
+Decolonization is woven into the fabric of reciprocal and redistributive methods, and this requires the academic to step back and evaluate not only their role in the project or endeavor, but also their visibility. 
+
 Paragraph on positionality of the academic...decolonization...insights from Bob Morrissey...
 
 >{: .new }

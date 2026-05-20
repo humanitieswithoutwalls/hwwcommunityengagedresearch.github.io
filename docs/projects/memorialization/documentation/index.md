@@ -8,4 +8,4 @@ grandparent: Project Design
 
 # Documentation Processes 
 
-notes on documenting processes of what you did, how you did it, what people need to do it again
+notes on documenting processes of what you did, how you did it, what people need to do it again 

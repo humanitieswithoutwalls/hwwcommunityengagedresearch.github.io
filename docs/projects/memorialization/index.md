@@ -2,7 +2,7 @@
 title: Memorialization
 layout: default
 nav_order: 3
-parent: Projects and Outcomes
+parent: Project Design
 has_children: true
 ---
 

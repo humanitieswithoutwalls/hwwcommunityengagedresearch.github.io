@@ -2,7 +2,7 @@
 title: Planning and Conceptualization
 layout: default
 nav_order: 1
-parent: Projects and Outcomes
+parent: Project Design
 has_children: true
 ---
 

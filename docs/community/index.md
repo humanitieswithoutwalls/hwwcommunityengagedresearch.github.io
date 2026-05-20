@@ -13,7 +13,7 @@ Non-extractive partnerships: community engaged research is not charity work or a
 
 
 > {: .new }
->>## *Putting Knowledge into Practice: Communiversities as Education Without Walls*
+>>### *Putting Knowledge into Practice: Communiversities as Education Without Walls*
 >>
 >>*The Communiversities Grand Research Challenge project, led by Drs. Asif Wilson (University of Illinois Urbana Champaign), Rachel McMillian (Indiana University Indianapolis), and Aja Reynolds (Wayne State University), is a multi-sited collaborative initiative that convenes communities to critically read and rewrite their worlds in three Midwestern cities:  Chicago, Cincinnati, and Detroit. Communiversities builds on a model from the 1960s that emerged out of the Black Power movement in Chicago where parents, teachers, professors, and community organizers came together to create alternative education sites to imagine and actualize freedom. Explore the links below to learn about the intiatives and the centrality of longstanding relationships in them.*
 >>
@@ -24,7 +24,7 @@ Non-extractive partnerships: community engaged research is not charity work or a
 Paragraph on positionality of the academic...decolonization...insights from Bob Morrissey...
 
 >{: .new }
->>## *Putting Knowledge into Practice: Reclaiming Stories*
+>>### *Putting Knowledge into Practice: Reclaiming Stories*
 >>
 >>*The Reclaiming Stories Grand Research Challenge project is an interdisciplinary team of tribal cultural experts, artists, and academics who are dedicated to researching early Miami and Peoria culture. The collaborative aims to build on and extend an extraordinary process of cultural restoration among these Indigenous communities over the past generation with a specific focus on art history and practice. The project team has focused on 18th century painted robes and reconnecting them with the tribes, as well as displaying them publicly. They have been working with the collection of Musée du quai Branly-Jacques Chirac on an exhibition at Versailles featuring the robes, which opened in the fall of 2025. The Reclaiming Stories team hopes to continue this work and bring the robes to the U.S. for an exhibition curated by Peoria and Miami tribal members.*
 >>

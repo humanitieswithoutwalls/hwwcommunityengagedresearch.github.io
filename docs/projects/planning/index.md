@@ -6,4 +6,4 @@ parent: Project Design
 has_children: true
 ---
 
-project scoping, planning, early stages
+project scoping, planning, early stages, dvision of labor early on

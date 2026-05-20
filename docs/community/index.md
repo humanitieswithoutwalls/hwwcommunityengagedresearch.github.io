@@ -21,12 +21,15 @@ Non-extractive partnerships: community engaged research is not charity work or a
 [Closing Schools is a Hate Crime](https://storymaps.arcgis.com/stories/b8910910c36b4d46ac5f5b4356019b58){: .btn .btn-blue }
 [Centering Education in Community and Collaboration](https://www.humanitieswithoutwalls.illinois.edu/news/centering-education-collaboration-and-community){: .btn .btn-blue }
 
-Paragraph on positionality of the academic...insights from Bob Morrissey...
+Paragraph on positionality of the academic...decolonization...insights from Bob Morrissey...
 
 >{: .new }
 >>## *Putting Knowledge into Practice: Reclaiming Stories*
 >>
->>*Morrissey's role in project vs his visibility*
+>>*The Reclaiming Stories Grand Research Challenge project is an interdisciplinary team of tribal cultural experts, artists, and academics who are dedicated to researching early Miami and Peoria culture. The collaborative aims to build on and extend an extraordinary process of cultural restoration among these Indigenous communities over the past generation with a specific focus on art history and practice. The project team has focused on 18th century painted robes and reconnecting them with the tribes, as well as displaying them publicly. They have been working with the collection of Musée du quai Branly-Jacques Chirac on an exhibition at Versailles featuring the robes, which opened in the fall of 2025. The Reclaiming Stories team hopes to continue this work and bring the robes to the U.S. for an exhibition curated by Peoria and Miami tribal members.*
+>>
+>>*While Morrissey may be the PI on the grant administrative side of things, he prioritizes self-erasure on the public-facing aspects of the project and focuses on facilitating infrastructure for collaboration. This has involved cultivating strong working relationships with university business managers to ensure all the logistical and financial pieces are where they need to be, working with departmental staff on the care and handling of artworks, and making sure all of partners on the project had what they needed to bring the Versailles exhibit to fruition.*
 >>[Reclaiming Stories](https://reclaimstories.web.illinois.edu/){: .btn .btn-blue }
+>>[Versailles Exhibit](https://en.chateauversailles.fr/press/expositions/1725-native-american-allies-court-louis-xv#the-indigenous-mississippi-valley-in-the-18th-century){: .btn .btn-blue }
 
 

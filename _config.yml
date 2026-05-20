@@ -13,5 +13,10 @@ aux_links:
 
 callouts:
   new:
-    title: New
-    color: green
+    title: Putting Knowledge into Practice
+    color: green-000
+
+  highlight:
+    title: Resource
+    color: yellow-000
+    

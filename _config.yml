@@ -19,4 +19,9 @@ callouts:
   highlight:
     title: Resource
     color: yellow
+
+  note:
+    title: Note
+    color: red
+    
     

@@ -7,3 +7,6 @@ has_children: true
 
 # Activities and Outputs
 
+kinds of things you do in a project
+
+archives, exhibits, workshops, events

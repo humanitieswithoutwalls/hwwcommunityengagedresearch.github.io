@@ -1,9 +1,9 @@
 ---
 title: Documentation
 layout: default
-nav_order: 3
+nav_order: 1
 parent: Memorialization
-grandparent: Project Design
+grandparent: Activities and Outputs
 ---
 
 # Documentation Processes 

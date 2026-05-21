@@ -10,8 +10,7 @@ working in archives, constructing archives
 archives as perpetually incomplete (ongoing, in flux...deep mapping type stuff) 
 
 >{: .highlight }
->>### *DigitalArc Platform*
->>*[DigitalArc](https://digitalarcplatform.github.io/) is collective storytelling and community archiving platform for organizing, collecting, and publishing histories, with a central focus on community ownership and the people who contribute their stories. This [toolkit](https://digitalarcplatform.github.io/documentation/overview) documents the process of organizing an archiving event and creating a website to present the material in an online archive.*
+>>[DigitalArc](https://digitalarcplatform.github.io/) is collective storytelling and community archiving platform for organizing, collecting, and publishing histories, with a central focus on community ownership and the people who contribute their stories. This [toolkit](https://digitalarcplatform.github.io/documentation/overview) documents the process of organizing an archiving event and creating a website to present the material in an online archive.
 
 >{: .new }
 >>### *Putting Knowledge into Practice: Listening for the Long Haul*

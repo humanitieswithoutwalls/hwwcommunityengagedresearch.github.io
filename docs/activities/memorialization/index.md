@@ -1,7 +1,7 @@
 ---
 title: Memorialization
 layout: default
-nav_order: 3
+nav_order: 4
 parent: Activities and Outputs
 has_children: true
 ---

@@ -5,4 +5,8 @@ nav_order: 2
 parent: Project Design
 ---
 
-multi-sited initatives
+# Multi-Sited Initatives
+
+coordinating across locations, solid working relationships as foundation (probably not a beginner-friendly endeavor)
+
+insights from asif transcript

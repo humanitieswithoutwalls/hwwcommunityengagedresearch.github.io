@@ -15,6 +15,7 @@ callouts:
   new:
     title: Putting Knowledge into Practice
     color: green
+    opacity: 0.0
 
   highlight:
     title: Resource

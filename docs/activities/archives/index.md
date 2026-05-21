@@ -2,8 +2,7 @@
 title: Archives
 layout: default
 nav_order: 1
-parent: Memorialization
-grandparent: Project Design
+parent: Activities and Outputs
 ---
 
 working in archives, constructing archives

@@ -10,3 +10,5 @@ has_children: true
 kinds of things you do in a project
 
 archives, exhibits, workshops, events
+
+process oriented research as much as output oriented

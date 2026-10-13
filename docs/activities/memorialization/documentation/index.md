@@ -11,3 +11,5 @@ grandparent: Activities and Outputs
 notes on documenting processes of what you did, how you did it, what people need to do it again 
 
 also assessment and evaluation can wrap into this
+
+documentation as memorialization--output and process (e.g. an archive and how you built it)

@@ -13,6 +13,8 @@ archives as perpetually incomplete (ongoing, in flux...deep mapping type stuff)
 
 Purpose, why organizing large collections of material helps tells stories, how to use
 
+digital, physical, combination, where do they live
+
 >{: .new }
 >>### *Putting Knowledge into Practice: Flint Water Crisis Public Archive*
 >>*The [Flint Water Crisis Public Archive](https://fwcpublicarchive.lib.uiowa.edu/) aims to expand access to primary documents to illustrate how and why the Flint Water Crisis happened, through public records and community member contributions. This project has been working to organize the massive collection of emails sent by multiple government agencies into a searchable database in order to make the records of the ongoing crisis accessible to to anyone, but most importantly to those directly impacted.*

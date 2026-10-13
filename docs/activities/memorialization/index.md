@@ -17,3 +17,5 @@ documenting, archiving, zine making, website building, etc
 choosing a documentation process
 
 determining what parts should be public-facing and how to make that happen
+
+what do you preserve and what is ephemeral

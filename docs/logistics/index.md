@@ -13,4 +13,4 @@ get to know your business manager and be nice to them
 
 you probably need a project manager or some kind of system for task-tracking and stuff
 
-communication plans, file sharing and organization
+communication plans, file sharing and organization, storage and preservation
